@@ -1,0 +1,8 @@
+---
+description: GC
+---
+
+# Gas Chromatography
+
+
+

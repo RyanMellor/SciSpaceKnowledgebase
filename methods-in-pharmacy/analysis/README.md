@@ -18,7 +18,7 @@
 
 ### [Thermal Analysis](./#thermal-analysis)
 
-* The study of the properties of materials as they change with temperature.
+* Techniques to study the properties of materials as they change with temperature
 
 ### [Physical Form](physical-form/)
 

@@ -1,5 +1,7 @@
 ---
-description: The study of the properties of materials as they change with temperature.
+description: >-
+  Techniques to study the properties of materials as they change with
+  temperature
 ---
 
 # Thermal Analysis

@@ -46,9 +46,9 @@
 * [Degradation Related Impurity](../methods-in-pharmacy/pre-formulation-and-formulation/physiochemical-properties/purity.md#degradation-related-impurity-dri)
 * [Differential Refractive Index](../methods-in-pharmacy/analysis/chromatography/methods-of-detection.md#refractive-index)
 
-[**DSC**](../methods-in-pharmacy/analysis/physical-form/differential-scanning-calorimetry.md)**:** Differential Scanning Calorimetry
+[**DSC**](../methods-in-pharmacy/analysis/thermal-analysis/differential-scanning-calorimetry.md)**:** Differential Scanning Calorimetry
 
-[**DVS**](../methods-in-pharmacy/analysis/hygroscopicity/dynamic-vapour-sorption.md)**:** Dynamic Vapour Sorption
+[**DVS**](../methods-in-pharmacy/analysis/thermal-analysis/dynamic-vapour-sorption.md)**:** Dynamic Vapour Sorption
 
 ## E
 
@@ -279,7 +279,7 @@ $$M_Z$$**:** Size average molecular weight
 
 **TFA:** Trifluoroacetic acid
 
-[**TGA**](../methods-in-pharmacy/analysis/hygroscopicity/thermo-gravimetric-analysis.md)**:** Thermo Gravimetric Analysis
+[**TGA**](../methods-in-pharmacy/analysis/thermal-analysis/thermo-gravimetric-analysis.md)**:** Thermo Gravimetric Analysis
 
 **THF:** Tetrahydrofuran
 

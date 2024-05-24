@@ -16,7 +16,7 @@
 
 * Technique that measures the mass-to-charge ratio of ions
 
-### [Hygroscopicity](hygroscopicity/)
+### [Hygroscopicity](thermal-analysis/)
 
 * Ability for a given substance to attract and hold water vapour
 

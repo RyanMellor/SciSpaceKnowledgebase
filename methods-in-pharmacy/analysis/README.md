@@ -16,9 +16,9 @@
 
 * Technique that measures the mass-to-charge ratio of ions
 
-### [Hygroscopicity](thermal-analysis/)
+### [Thermal Analysis](./#thermal-analysis)
 
-* Ability for a given substance to attract and hold water vapour
+* The study of the properties of materials as they change with temperature.
 
 ### [Physical Form](physical-form/)
 

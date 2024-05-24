@@ -1,7 +1,7 @@
 ---
-description: Ability for a given substance to attract and hold water vapour
+description: The study of the properties of materials as they change with temperature.
 ---
 
-# Hygroscopicity
+# Thermal Analysis
 
 &#x20;
